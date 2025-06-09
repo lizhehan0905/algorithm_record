@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/49cb710e-2dcf-4616-aeb7-33915002694b)# algorithm_record
-backup algorithm address
 
 # 目标检测
 ## 红外目标检测
@@ -27,3 +25,5 @@ backup algorithm address
 ### Cross-DINO
 + 小目标检测，改进DETR,代码暂未开源
 + https://github.com/Med-Process/Cross-DINO
+### ESOD
++ 小目标检测，
