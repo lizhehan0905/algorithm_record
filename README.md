@@ -64,6 +64,10 @@
 + 代码未公开，夜间复杂天气复原
 + https://github.com/henlyta/ClearNight
 + https://zhuanlan.zhihu.com/p/1909298854324598637
+### anDehazeFormer
++ 4090上50fps，transformer架构
++ https://zhuanlan.zhihu.com/p/1908567484929385893
++ https://anonymous.4open.science/r/anDehazeFormer-632E/README.md
 
 
 ## 图像分类
