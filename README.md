@@ -1,5 +1,20 @@
 
 # 目标检测
+## SAR图像检测
++ SAR图像的难点：散斑噪音（不能去噪）、小目标、光谱偏差、动态变化
+### SARATR-X、SAR-JEPA
++ 仓库提供了大量数据集链接，算法就是基于mmdetection实现的HiViT
++ https://github.com/waterdisappear/SARATR-X?tab=readme-ov-file
++ https://github.com/waterdisappear/SAR-JEPA
++ https://baijiahao.baidu.com/s?id=1821855839733041630&wfr=spider&for=pc
++ hivit的github链接：https://github.com/zhangxiaosong18/hivit
++ 数据集汇总：https://zhuanlan.zhihu.com/p/685539575
+### GrokSAR
++ SAR图像去噪、基于yolo框架在检测头进行频域去噪
++ https://github.com/GrokCV/GrokSAR
++ https://zhuanlan.zhihu.com/p/20657923113
+
+
 ## 红外目标检测
 ### SAMamba
 + 将SAM2的层级特征学习与Mamba的选择性序列建模相结合
